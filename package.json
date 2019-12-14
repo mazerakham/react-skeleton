@@ -1,0 +1,11 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "React skeleton with only stuff I understand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Mirra",
+  "license": "ISC"
+}
