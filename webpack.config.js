@@ -22,7 +22,7 @@ module.exports = {
     modules: [path.resolve(__dirname, './src'), 'node_modules'],
     extensions: ["*", '.js', '.jsx', '.json'],
     alias: {
-      testpkg: path.resolve(__dirname, './src/testpkg')
+      testpkg: path.resolve(__dirname, './src/testpkg/blahblah')
     }
   },
   output: {
